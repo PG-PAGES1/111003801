@@ -1,0 +1,607 @@
+
+free.jpg
+size: 2042,1580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duogetexiao/bns_fs_particle
+  rotate: false
+  xy: 1, 1545
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+duogetexiao/bns_mtp_glow
+  rotate: false
+  xy: 1, 354
+  size: 297, 244
+  orig: 297, 244
+  offset: 0, 0
+  index: -1
+duogetexiao/g_button_glow
+  rotate: false
+  xy: 1068, 1441
+  size: 364, 138
+  orig: 364, 138
+  offset: 0, 0
+  index: -1
+duogetexiao/g_shrink_glow
+  rotate: false
+  xy: 322, 1464
+  size: 304, 115
+  orig: 304, 115
+  offset: 0, 0
+  index: -1
+duogetexiao/g_ui_shine
+  rotate: false
+  xy: 300, 104
+  size: 751, 453
+  orig: 751, 453
+  offset: 0, 0
+  index: -1
+duogetexiao/ps_end_glow_a
+  rotate: false
+  xy: 1338, 536
+  size: 216, 186
+  orig: 216, 186
+  offset: 0, 0
+  index: -1
+duogetexiao/ui_fb_glow_b
+  rotate: false
+  xy: 1556, 518
+  size: 379, 204
+  orig: 379, 204
+  offset: 0, 0
+  index: -1
+mianfeikaishilsyanhua/firework_a_01
+  rotate: false
+  xy: 133, 1497
+  size: 94, 82
+  orig: 198, 185
+  offset: 101, 103
+  index: -1
+mianfeikaishilsyanhua/firework_a_02
+  rotate: false
+  xy: 628, 1463
+  size: 136, 116
+  orig: 198, 185
+  offset: 62, 69
+  index: -1
+mianfeikaishilsyanhua/firework_a_03
+  rotate: false
+  xy: 1434, 1435
+  size: 163, 144
+  orig: 198, 185
+  offset: 35, 41
+  index: -1
+mianfeikaishilsyanhua/firework_a_04
+  rotate: false
+  xy: 1716, 1262
+  size: 177, 162
+  orig: 198, 185
+  offset: 21, 23
+  index: -1
+mianfeikaishilsyanhua/firework_a_05
+  rotate: false
+  xy: 715, 942
+  size: 185, 172
+  orig: 198, 185
+  offset: 13, 13
+  index: -1
+mianfeikaishilsyanhua/firework_a_06
+  rotate: false
+  xy: 902, 936
+  size: 189, 176
+  orig: 198, 185
+  offset: 9, 9
+  index: -1
+mianfeikaishilsyanhua/firework_a_07
+  rotate: false
+  xy: 1460, 913
+  size: 191, 180
+  orig: 198, 185
+  offset: 7, 5
+  index: -1
+mianfeikaishilsyanhua/firework_a_08
+  rotate: false
+  xy: 1653, 910
+  size: 193, 182
+  orig: 198, 185
+  offset: 5, 3
+  index: -1
+mianfeikaishilsyanhua/firework_a_09
+  rotate: false
+  xy: 1848, 910
+  size: 193, 182
+  orig: 198, 185
+  offset: 5, 3
+  index: -1
+mianfeikaishilsyanhua/firework_a_10
+  rotate: false
+  xy: 1, 792
+  size: 195, 182
+  orig: 198, 185
+  offset: 3, 3
+  index: -1
+mianfeikaishilsyanhua/firework_a_11
+  rotate: false
+  xy: 198, 786
+  size: 195, 182
+  orig: 198, 185
+  offset: 3, 3
+  index: -1
+mianfeikaishilsyanhua/firework_a_12
+  rotate: false
+  xy: 1532, 724
+  size: 195, 184
+  orig: 198, 185
+  offset: 3, 1
+  index: -1
+mianfeikaishilsyanhua/firework_a_13
+  rotate: false
+  xy: 1729, 724
+  size: 195, 184
+  orig: 198, 185
+  offset: 3, 1
+  index: -1
+mianfeikaishilsyanhua/firework_a_14
+  rotate: false
+  xy: 1, 606
+  size: 195, 184
+  orig: 198, 185
+  offset: 3, 1
+  index: -1
+mianfeikaishilsyanhua/firework_a_15
+  rotate: false
+  xy: 198, 600
+  size: 195, 184
+  orig: 198, 185
+  offset: 3, 1
+  index: -1
+mianfeikaishilsyanhua/firework_a_16
+  rotate: true
+  xy: 1152, 542
+  size: 195, 184
+  orig: 198, 185
+  offset: 3, 1
+  index: -1
+mianfeikaishilsyanhua/firework_a_17
+  rotate: false
+  xy: 1147, 1111
+  size: 195, 166
+  orig: 198, 185
+  offset: 3, 19
+  index: -1
+mianfeikaishilsyanhua/firework_a_18
+  rotate: false
+  xy: 1344, 1105
+  size: 195, 166
+  orig: 198, 185
+  offset: 3, 19
+  index: -1
+mianfeikaishilsyanhua/firework_a_19
+  rotate: false
+  xy: 1713, 1094
+  size: 193, 166
+  orig: 198, 185
+  offset: 5, 19
+  index: -1
+mianfeikaishilsyanhua/firework_a_20
+  rotate: false
+  xy: 583, 1126
+  size: 193, 165
+  orig: 198, 185
+  offset: 5, 20
+  index: -1
+mianfeikaishilsyanhua/firework_a_21
+  rotate: false
+  xy: 171, 976
+  size: 195, 166
+  orig: 198, 185
+  offset: 3, 19
+  index: -1
+mianfeikaishilsyanhua/firework_a_22
+  rotate: false
+  xy: 388, 1140
+  size: 193, 164
+  orig: 198, 185
+  offset: 5, 21
+  index: -1
+mianfeikaishilsyanhua/firework_a_23
+  rotate: false
+  xy: 1, 1162
+  size: 193, 163
+  orig: 198, 185
+  offset: 5, 21
+  index: -1
+mianfeikaishilsyanhua/firework_a_24
+  rotate: false
+  xy: 196, 1144
+  size: 190, 163
+  orig: 198, 185
+  offset: 8, 20
+  index: -1
+mianfeikaishilsyanhua/firework_a_25
+  rotate: false
+  xy: 1758, 1426
+  size: 193, 153
+  orig: 198, 185
+  offset: 5, 25
+  index: -1
+mianfeikaishilsyanhua/firework_a_26
+  rotate: false
+  xy: 1194, 1279
+  size: 185, 160
+  orig: 198, 185
+  offset: 13, 25
+  index: -1
+mianfeikaishilsyanhua/firework_a_27
+  rotate: false
+  xy: 494, 1306
+  size: 193, 155
+  orig: 198, 185
+  offset: 5, 27
+  index: -1
+mianfeikaishilsyanhua/firework_a_28
+  rotate: false
+  xy: 778, 1116
+  size: 195, 165
+  orig: 198, 185
+  offset: 3, 20
+  index: -1
+mianfeikaishilsyanhua/firework_a_29
+  rotate: true
+  xy: 229, 1489
+  size: 90, 91
+  orig: 198, 185
+  offset: 75, 73
+  index: -1
+xuanzhuananniutexiao/g_wheel_glow_a
+  rotate: false
+  xy: 1053, 1
+  size: 515, 515
+  orig: 515, 515
+  offset: 0, 0
+  index: -1
+ziseyanhua/firework_b_01
+  rotate: true
+  xy: 37, 1498
+  size: 81, 94
+  orig: 188, 185
+  offset: 107, 91
+  index: -1
+ziseyanhua/firework_b_02
+  rotate: true
+  xy: 766, 1450
+  size: 129, 130
+  orig: 188, 185
+  offset: 59, 55
+  index: -1
+ziseyanhua/firework_b_03
+  rotate: false
+  xy: 1599, 1427
+  size: 157, 152
+  orig: 188, 185
+  offset: 31, 33
+  index: -1
+ziseyanhua/firework_b_04
+  rotate: false
+  xy: 368, 970
+  size: 173, 168
+  orig: 188, 185
+  offset: 15, 17
+  index: -1
+ziseyanhua/firework_b_05
+  rotate: false
+  xy: 1093, 931
+  size: 181, 178
+  orig: 188, 185
+  offset: 7, 7
+  index: -1
+ziseyanhua/firework_b_06
+  rotate: false
+  xy: 395, 771
+  size: 185, 182
+  orig: 188, 185
+  offset: 3, 3
+  index: -1
+ziseyanhua/firework_b_07
+  rotate: true
+  xy: 395, 581
+  size: 188, 185
+  orig: 188, 185
+  offset: 0, 0
+  index: -1
+ziseyanhua/firework_b_08
+  rotate: false
+  xy: 582, 570
+  size: 188, 185
+  orig: 188, 185
+  offset: 0, 0
+  index: -1
+ziseyanhua/firework_b_09
+  rotate: false
+  xy: 772, 564
+  size: 188, 185
+  orig: 188, 185
+  offset: 0, 0
+  index: -1
+ziseyanhua/firework_b_10
+  rotate: false
+  xy: 962, 559
+  size: 188, 185
+  orig: 188, 185
+  offset: 0, 0
+  index: -1
+ziseyanhua/firework_b_11
+  rotate: false
+  xy: 582, 757
+  size: 188, 183
+  orig: 188, 185
+  offset: 0, 0
+  index: -1
+ziseyanhua/firework_b_12
+  rotate: false
+  xy: 772, 751
+  size: 188, 183
+  orig: 188, 185
+  offset: 0, 0
+  index: -1
+ziseyanhua/firework_b_13
+  rotate: false
+  xy: 962, 746
+  size: 188, 183
+  orig: 188, 185
+  offset: 0, 1
+  index: -1
+ziseyanhua/firework_b_14
+  rotate: false
+  xy: 1152, 739
+  size: 188, 183
+  orig: 188, 185
+  offset: 0, 0
+  index: -1
+ziseyanhua/firework_b_15
+  rotate: false
+  xy: 1342, 728
+  size: 188, 183
+  orig: 188, 185
+  offset: 0, 0
+  index: -1
+ziseyanhua/firework_b_16
+  rotate: false
+  xy: 1276, 924
+  size: 182, 179
+  orig: 188, 185
+  offset: 3, 1
+  index: -1
+ziseyanhua/firework_b_17
+  rotate: false
+  xy: 543, 955
+  size: 170, 169
+  orig: 188, 185
+  offset: 13, 11
+  index: -1
+ziseyanhua/firework_b_18
+  rotate: false
+  xy: 1541, 1095
+  size: 170, 167
+  orig: 188, 185
+  offset: 13, 12
+  index: -1
+ziseyanhua/firework_b_19
+  rotate: false
+  xy: 975, 1114
+  size: 170, 165
+  orig: 188, 185
+  offset: 13, 13
+  index: -1
+ziseyanhua/firework_b_20
+  rotate: false
+  xy: 1, 993
+  size: 168, 167
+  orig: 188, 185
+  offset: 12, 13
+  index: -1
+ziseyanhua/firework_b_21
+  rotate: false
+  xy: 1548, 1264
+  size: 166, 161
+  orig: 188, 185
+  offset: 14, 13
+  index: -1
+ziseyanhua/firework_b_22
+  rotate: false
+  xy: 859, 1283
+  size: 172, 157
+  orig: 188, 185
+  offset: 12, 14
+  index: -1
+ziseyanhua/firework_b_23
+  rotate: false
+  xy: 1, 1342
+  size: 160, 153
+  orig: 188, 185
+  offset: 14, 14
+  index: -1
+ziseyanhua/firework_b_24
+  rotate: true
+  xy: 1381, 1273
+  size: 160, 165
+  orig: 188, 185
+  offset: 14, 14
+  index: -1
+ziseyanhua/firework_b_25
+  rotate: false
+  xy: 322, 1309
+  size: 170, 153
+  orig: 188, 185
+  offset: 13, 15
+  index: -1
+ziseyanhua/firework_b_26
+  rotate: true
+  xy: 163, 1327
+  size: 160, 157
+  orig: 188, 185
+  offset: 14, 14
+  index: -1
+ziseyanhua/firework_b_27
+  rotate: false
+  xy: 689, 1293
+  size: 168, 155
+  orig: 188, 185
+  offset: 14, 14
+  index: -1
+ziseyanhua/firework_b_28
+  rotate: true
+  xy: 1033, 1281
+  size: 158, 159
+  orig: 188, 185
+  offset: 21, 13
+  index: -1
+ziseyanhua/firework_b_29
+  rotate: false
+  xy: 898, 1442
+  size: 168, 137
+  orig: 188, 185
+  offset: 13, 30
+  index: -1
+
+free2.jpg
+size: 1754,1299
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duogetexiao/lights
+  rotate: false
+  xy: 1, 298
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+xuanzhuananniutexiao/g_wheel_glow_b
+  rotate: true
+  xy: 1003, 1
+  size: 588, 594
+  orig: 588, 594
+  offset: 0, 0
+  index: -1
+xuanzhuananniutexiao/g_wheel_glow_c
+  rotate: false
+  xy: 1003, 591
+  size: 750, 707
+  orig: 750, 707
+  offset: 0, 0
+  index: -1
+
+
+free3.png
+size: 2032,967
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiesuanbeijing
+  rotate: true
+  xy: 714, 588
+  size: 378, 819
+  orig: 378, 819
+  offset: 0, 0
+  index: -1
+mianfeijiesaunbeijing/tw_fish
+  rotate: false
+  xy: 1787, 412
+  size: 244, 304
+  orig: 244, 304
+  offset: 0, 0
+  index: -1
+mianfeijiesaunbeijing/tw_sun
+  rotate: false
+  xy: 1, 251
+  size: 711, 715
+  orig: 723, 748
+  offset: 0, 14
+  index: -1
+zhuanpankuangtexiao/g_ui_glow_00
+  rotate: false
+  xy: 721, 37
+  size: 241, 49
+  orig: 248, 538
+  offset: 4, 254
+  index: -1
+zhuanpankuangtexiao/g_ui_glow_01
+  rotate: false
+  xy: 1498, 96
+  size: 247, 112
+  orig: 248, 538
+  offset: 1, 224
+  index: -1
+zhuanpankuangtexiao/g_ui_glow_02
+  rotate: false
+  xy: 1537, 210
+  size: 248, 175
+  orig: 248, 538
+  offset: 0, 194
+  index: -1
+zhuanpankuangtexiao/g_ui_glow_03
+  rotate: true
+  xy: 1787, 162
+  size: 248, 235
+  orig: 248, 538
+  offset: 0, 165
+  index: -1
+zhuanpankuangtexiao/g_ui_glow_04
+  rotate: true
+  xy: 433, 1
+  size: 248, 286
+  orig: 248, 538
+  offset: 0, 141
+  index: -1
+zhuanpankuangtexiao/g_ui_glow_05
+  rotate: false
+  xy: 1537, 387
+  size: 248, 329
+  orig: 248, 538
+  offset: 0, 120
+  index: -1
+zhuanpankuangtexiao/g_ui_glow_06
+  rotate: true
+  xy: 1132, 88
+  size: 248, 364
+  orig: 248, 538
+  offset: 0, 103
+  index: -1
+zhuanpankuangtexiao/g_ui_glow_07
+  rotate: true
+  xy: 1145, 338
+  size: 248, 390
+  orig: 248, 538
+  offset: 0, 91
+  index: -1
+zhuanpankuangtexiao/g_ui_glow_08
+  rotate: true
+  xy: 721, 88
+  size: 248, 409
+  orig: 248, 538
+  offset: 0, 82
+  index: -1
+zhuanpankuangtexiao/g_ui_glow_09
+  rotate: true
+  xy: 1535, 718
+  size: 248, 422
+  orig: 248, 538
+  offset: 0, 76
+  index: -1
+zhuanpankuangtexiao/g_ui_glow_10
+  rotate: true
+  xy: 714, 338
+  size: 248, 429
+  orig: 248, 538
+  offset: 0, 72
+  index: -1
+zhuanpankuangtexiao/g_ui_glow_11
+  rotate: true
+  xy: 1, 1
+  size: 248, 430
+  orig: 248, 538
+  offset: 0, 72
+  index: -1

@@ -1,0 +1,251 @@
+
+bigwin.png
+size: 2022,1977
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing/bw_bg_coin
+  rotate: false
+  xy: 690, 1660
+  size: 707, 315
+  orig: 725, 341
+  offset: 6, 1
+  index: -1
+beijing/bw_pattern
+  rotate: true
+  xy: 1482, 888
+  size: 756, 526
+  orig: 756, 530
+  offset: 0, 0
+  index: -1
+beijing/mw_bg_coin
+  rotate: false
+  xy: 2, 1279
+  size: 720, 379
+  orig: 744, 379
+  offset: 13, 0
+  index: -1
+beijing/smw_bg_coin
+  rotate: false
+  xy: 724, 1193
+  size: 756, 451
+  orig: 756, 463
+  offset: 0, 4
+  index: -1
+jinbi/coin_1
+  rotate: false
+  xy: 2, 1762
+  size: 686, 213
+  orig: 686, 213
+  offset: 0, 0
+  index: -1
+jinbi/coin_2
+  rotate: false
+  xy: 1399, 1646
+  size: 573, 329
+  orig: 573, 330
+  offset: 0, 1
+  index: -1
+jinbi/jinbitu
+  rotate: true
+  xy: 917, 195
+  size: 691, 1103
+  orig: 692, 1103
+  offset: 0, 0
+  index: -1
+jinbi/mianfeijiesaunjinbi
+  rotate: true
+  xy: 2, 2
+  size: 715, 847
+  orig: 715, 847
+  offset: 0, 0
+  index: -1
+xiacihaoyuanbeijingtexiao
+  rotate: true
+  xy: 2, 719
+  size: 472, 913
+  orig: 472, 984
+  offset: 0, 23
+  index: -1
+
+bigwin2.png
+size: 1518,1505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing/bw_bg
+  rotate: true
+  xy: 743, 2
+  size: 756, 755
+  orig: 756, 787
+  offset: 0, 16
+  index: -1
+jinbi/coin_3
+  rotate: false
+  xy: 2, 512
+  size: 739, 991
+  orig: 739, 991
+  offset: 0, 0
+  index: -1
+jinbi/coin_4
+  rotate: true
+  xy: 743, 760
+  size: 743, 773
+  orig: 743, 774
+  offset: 0, 0
+  index: -1
+
+
+bigwin3.jpg
+size: 1461,1100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duogetexiao/bw_shine
+  rotate: false
+  xy: 2, 541
+  size: 529, 557
+  orig: 529, 557
+  offset: 0, 0
+  index: -1
+duogetexiao/g_particle
+  rotate: false
+  xy: 301, 146
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+duogetexiao/g_transition
+  rotate: true
+  xy: 2, 2
+  size: 537, 297
+  orig: 537, 297
+  offset: 0, 0
+  index: -1
+duogetexiao/tw_shine
+  rotate: false
+  xy: 533, 543
+  size: 421, 555
+  orig: 421, 555
+  offset: 0, 0
+  index: -1
+lizitu/tw_num_particle_00
+  rotate: false
+  xy: 569, 408
+  size: 362, 133
+  orig: 388, 151
+  offset: 14, 13
+  index: -1
+lizitu/tw_num_particle_01
+  rotate: false
+  xy: 569, 140
+  size: 362, 131
+  orig: 388, 151
+  offset: 14, 13
+  index: -1
+lizitu/tw_num_particle_02
+  rotate: false
+  xy: 569, 273
+  size: 362, 133
+  orig: 388, 151
+  offset: 15, 10
+  index: -1
+lizitu/tw_num_particle_03
+  rotate: true
+  xy: 1199, 196
+  size: 362, 129
+  orig: 388, 151
+  offset: 14, 13
+  index: -1
+lizitu/tw_num_particle_04
+  rotate: true
+  xy: 1330, 368
+  size: 360, 129
+  orig: 388, 151
+  offset: 17, 13
+  index: -1
+lizitu/tw_num_particle_05
+  rotate: true
+  xy: 1330, 6
+  size: 360, 129
+  orig: 388, 151
+  offset: 17, 13
+  index: -1
+lizitu/tw_num_particle_06
+  rotate: true
+  xy: 1066, 196
+  size: 362, 131
+  orig: 388, 151
+  offset: 15, 12
+  index: -1
+lizitu/tw_num_particle_07
+  rotate: false
+  xy: 301, 7
+  size: 352, 131
+  orig: 388, 151
+  offset: 26, 12
+  index: -1
+lizitu/tw_num_particle_08
+  rotate: false
+  xy: 655, 7
+  size: 352, 131
+  orig: 388, 151
+  offset: 26, 12
+  index: -1
+lizitu/tw_num_particle_09
+  rotate: true
+  xy: 438, 175
+  size: 364, 129
+  orig: 388, 151
+  offset: 14, 12
+  index: -1
+lizitu/tw_num_particle_10
+  rotate: false
+  xy: 956, 695
+  size: 366, 131
+  orig: 388, 151
+  offset: 12, 12
+  index: -1
+lizitu/tw_num_particle_11
+  rotate: false
+  xy: 956, 828
+  size: 366, 133
+  orig: 388, 151
+  offset: 12, 12
+  index: -1
+lizitu/tw_num_particle_12
+  rotate: false
+  xy: 956, 963
+  size: 366, 135
+  orig: 388, 151
+  offset: 12, 11
+  index: -1
+lizitu/tw_num_particle_13
+  rotate: true
+  xy: 301, 173
+  size: 366, 135
+  orig: 388, 151
+  offset: 11, 11
+  index: -1
+lizitu/tw_num_particle_14
+  rotate: false
+  xy: 956, 560
+  size: 364, 133
+  orig: 388, 151
+  offset: 13, 11
+  index: -1
+lizitu/tw_num_particle_15
+  rotate: true
+  xy: 933, 177
+  size: 364, 131
+  orig: 388, 151
+  offset: 13, 13
+  index: -1
+lizitu/tw_num_particle_16
+  rotate: true
+  xy: 1324, 730
+  size: 368, 131
+  orig: 388, 151
+  offset: 11, 13
+  index: -1
+
